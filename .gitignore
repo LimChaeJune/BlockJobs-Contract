@@ -102,3 +102,12 @@ dist
 
 # TernJS port file
 .tern-port
+
+bower_components/
+node_modules/
+.pulp-cache/
+output/
+build/**/*.json
+deploy.js
+compile.js
+build/
